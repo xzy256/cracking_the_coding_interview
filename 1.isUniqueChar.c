@@ -28,4 +28,5 @@ int main(void)
     bool isTrue = isUniqueChar(string);
     printf("Is input string unique?\n");
     printf("%d\n", isTrue);
+    return 0;
 }
