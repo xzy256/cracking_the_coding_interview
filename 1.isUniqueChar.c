@@ -27,5 +27,5 @@ int main(void)
     char string[10] = "asdfgka";
     bool isTrue = isUniqueChar(string);
     printf("Is input string unique?\n");
-    printf("%d", isTrue);
+    printf("%d\n", isTrue);
 }
