@@ -20,7 +20,6 @@ bool isUniqueChar(char *str)
         isExist[val] = true;
     }
     return true;
-
 }
 int main(void)
 {
