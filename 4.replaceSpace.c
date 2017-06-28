@@ -19,7 +19,6 @@ int countSpace(char *str)//计算字符串的空格数
 }
 void replaceSpace(char *str, int len)
 {
-
     int spaceNum = countSpace(str);
     int newLen = len + spaceNum * 2;//加上原来的空格就是3个bit位
     int i;
