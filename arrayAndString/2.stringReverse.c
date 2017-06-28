@@ -1,5 +1,5 @@
 /**
-*反转一个NULL结尾的字符串
+* 反转一个NULL结尾的字符串
 **/
 #include<stdio.h>
 #include<string.h>
